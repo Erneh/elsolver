@@ -1,4 +1,5 @@
-from distutils.core import setup
+from setuptools import setup
+
 setup(
   name = 'elsolver',         
   packages = ['elsolver'],   
@@ -18,10 +19,13 @@ setup(
     'Development Status :: 3 - Alpha',      
     
 
-    'License :: GPL version 3',  
-    'Programming Language :: Python :: 3',      
-    'Programming Language :: Python :: 3.11',
-    'Programming Language :: Python :: 3.5',
-    'Programming Language :: Python :: 3.6',
+    'License :: OSI Approved :: GNU General Public License v3 (GPLv3)'
+    'Programming Language :: Python :: 3',
+      'Programming Language :: Python :: 3.11',
+      'Programming Language :: Python :: 3.7',
+      'Programming Language :: Python :: 3.8',
+      'Programming Language :: Python :: 3.9',
+      'Programming Language :: Python :: 3.10',
+      'Programming Language :: Python :: 3.11',
   ],
 )
