@@ -4,7 +4,7 @@ setup(
   name = 'elsolver',         
   packages = ['elsolver'],   
   version = '0.1',      
-  license='GNU',        
+  license='GPL-3.0-only',        
   description = 'Solver for Euler-Lagrange equations of a system using only its lagrangian',   
   author = 'Joan Ernest Pérez',                  
   author_email = 'ernestpech11@gmail.com',      
@@ -18,14 +18,13 @@ setup(
   classifiers=[
     'Development Status :: 3 - Alpha',      
     
-
-    'License :: OSI Approved :: GNU General Public License v3 (GPLv3)'
+    'License :: OSI Approved :: GNU General Public License v3.0 (GPL-3.0-only)',
     'Programming Language :: Python :: 3',
-      'Programming Language :: Python :: 3.11',
-      'Programming Language :: Python :: 3.7',
-      'Programming Language :: Python :: 3.8',
-      'Programming Language :: Python :: 3.9',
-      'Programming Language :: Python :: 3.10',
-      'Programming Language :: Python :: 3.11',
+    'Programming Language :: Python :: 3.11',
+    'Programming Language :: Python :: 3.7',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
   ],
 )
