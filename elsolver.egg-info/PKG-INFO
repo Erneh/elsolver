@@ -9,9 +9,7 @@ Author-email: ernestpech11@gmail.com
 License: GNU
 Keywords: PHYSICS,EULER-LAGRANGE,SIMULATION
 Classifier: Development Status :: 3 - Alpha
-Classifier: Intended Audience :: Scientists and developers
-Classifier: Topic :: Physics :: Simulations
-Classifier: License :: OSI Approved :: GNU License
+Classifier: License :: GPL version 3
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.11
 Classifier: Programming Language :: Python :: 3.5

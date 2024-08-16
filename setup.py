@@ -18,8 +18,7 @@ setup(
     'Development Status :: 3 - Alpha',      
     
 
-    'License :: OSI Approved :: GNU License',  
-
+    'License :: GPL version 3',  
     'Programming Language :: Python :: 3',      
     'Programming Language :: Python :: 3.11',
     'Programming Language :: Python :: 3.5',
