@@ -4,7 +4,7 @@ setup(
   packages = ['elsolver'],   
   version = '0.1',      
   license='GNU',        
-  description = 'TYPE YOUR DESCRIPTION HERE',   
+  description = 'Solver for Euler-Lagrange equations of a system using only its lagrangian',   
   author = 'Joan Ernest Pérez',                  
   author_email = 'ernestpech11@gmail.com',      
   url = 'https://github.com/Erneh/elsolver',  
