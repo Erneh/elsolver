@@ -16,9 +16,7 @@ setup(
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      
-
-    'Intended Audience :: Scientists and developers',     
-    'Topic :: Physics :: Simulations',
+    
 
     'License :: OSI Approved :: GNU License',  
 
